@@ -19,6 +19,6 @@ I used this technologoies to come up with my website.
 
 [link to my github page.](https://github.com/Trevor50/AKAN-NAME-GENERATION)
 
-[link to my project. ]()
+[link to my project. ](https://trevor50.github.io/AKAN-NAME-GENERATION/)
 
 Copyright (c) 2020 **Trevor**
