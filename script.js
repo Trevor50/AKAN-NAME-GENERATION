@@ -15,11 +15,11 @@ function additionSubmit() {
     date = new Date(date);
 
     if (gender === 'male') {
-        alert(" HER BIRTHDAY " + weekDays[date.getDay()] + ',' + " Your Akan Name Is " + maleNames[date.getDay()]);
+        alert(" HIS BIRTHDAY " + weekDays[date.getDay()] + ',' + " Your Akan Name Is " + maleNames[date.getDay()]);
         document.getElementById('result').innerHTML = maleNames[date.getDay()]
     }
     else if (gender === 'female') {
-        alert(" HIS BIRTHDAY  " + weekDays[date.getDay()] + ',' + " Your Akan Name Is " + femaleNames[date.getDay()]);
+        alert(" HERE BIRTHDAY  " + weekDays[date.getDay()] + ',' + " Your Akan Name Is " + femaleNames[date.getDay()]);
         document.getElementById('result').innerHTML = femaleNames[date.getDay()];
     }
     else {
