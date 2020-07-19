@@ -42,9 +42,11 @@ input{color: blue;
     color: white;
     font-size: 14px;
   
-  }
 
-
-
-
+}
+h3{
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 40px;
+}
 
